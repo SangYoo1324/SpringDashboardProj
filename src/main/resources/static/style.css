@@ -1,0 +1,32 @@
+section{
+
+}
+.container{
+width: 1140px;
+height: 500px;
+}
+
+.p_container{
+width: 1140px;
+
+}
+
+img{
+width: 200px;
+height: 200px;
+}
+
+.p_container form{
+    width:80%;
+    margin: 0 auto;
+}
+
+.test{
+font-size: 15px;
+border: 1px solid #ccc;
+}
+
+.margin-right-0{
+margin-right: 0 !important;
+}
+
